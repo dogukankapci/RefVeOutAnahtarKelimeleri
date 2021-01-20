@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RefVeOutAnahtarKelimeleri
+namespace RefAnahtarKelimesi
 {
     class Program
     {
